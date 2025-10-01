@@ -33,13 +33,13 @@ Each member’s work can be found in their respective folder inside this reposit
 
 ## 📂 Repository Structure
 
-├── Priyanshu Ranjan                # Contributions by Priyanshu
-├── Sandipan Karu                   # Contributions by Sandipan
-├── Polipalli Rajesh                # Contributions by Rajesh
-├── Sharmilla D                     # Contributions by Sharmilla
-├── Vinay Kumar Mahto               # Contributions by Vinay
-├── README.md                       # Project documentation
-└── .gitignore                      # Ignored files (venv, cache, uploads, etc.)
+├── Priyanshu Ranjan      # Contributions by Priyanshu  
+├── Sandipan Karu         # Contributions by Sandipan  
+├── Polipalli Rajesh      # Contributions by Rajesh  
+├── Sharmilla D           # Contributions by Sharmilla  
+├── Vinay Kumar Mahto     # Contributions by Vinay  
+├── README.md             # Project documentation  
+└── .gitignore            # Ignored files (venv, cache, uploads, etc.)
 
 ---
 
