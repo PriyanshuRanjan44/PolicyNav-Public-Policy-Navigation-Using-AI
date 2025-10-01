@@ -43,12 +43,12 @@ streamlit run app.py
 
 ## 📦 Dependencies
 
-├── Streamlit              # Web Interface  
-├── SentenceTransformers   # Embedding model  
-├── faiss-cpu              # Vector index for retrieval  
-├── pandas                 # Data handling  
-├── numpy                  # Numerical operations  
-└── ollama                 # LLM query engine
+├── Streamlit                 # Web Interface  
+├── SentenceTransformers      # Embedding model  
+├── faiss-cpu                 # Vector index for retrieval  
+├── pandas                    # Data handling  
+├── numpy                     # Numerical operations  
+└── ollama                    # LLM query engine
 
 ### Additional project modules:
 
