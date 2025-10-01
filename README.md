@@ -33,11 +33,11 @@ Each member’s work can be found in their respective folder inside this reposit
 
 ## 📂 Repository Structure
 
-├── Priyanshu_Ranjan/   # Contributions by Priyanshu
-├── Sandipan_Karu/   # Contributions by Sandipan
-├── Member3_Name/   # Contributions by Member 3
-├── Member4_Name/   # Contributions by Member 4
-├── Vinay_Kumar_Mahto/   # Contributions by Vinay
+├── Priyanshu_Ranjan   # Contributions by Priyanshu
+├── Sandipan_Karu   # Contributions by Sandipan
+├── Member3_Name   # Contributions by Member 3
+├── Member4_Name   # Contributions by Member 4
+├── Vinay_Kumar_Mahto   # Contributions by Vinay
 ├── README.md   # Project documentation
 └── .gitignore # Ignored files (venv, cache, uploads, etc.)
 
