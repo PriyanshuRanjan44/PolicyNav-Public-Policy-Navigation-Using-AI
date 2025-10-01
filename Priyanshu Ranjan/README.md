@@ -81,6 +81,7 @@ ollama_client.py      # For interacting with Ollama
 ├── requirements.txt    # Python dependencies
 ├── uploads             # Uploaded files (session-specific)
 └── README.md           # Documentation
+```
 
 ---
 
