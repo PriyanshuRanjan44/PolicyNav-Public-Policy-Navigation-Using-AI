@@ -68,7 +68,7 @@ ollama_client.py      # For interacting with Ollama
    - Save chunks to `.json`  
    - Display session inventory  
 4. **Ask questions** in the chat input and get context-aware answers  
-5. **Optionally download** the processed chunks  
+5. **Optionally download** the processed chunks   
 
 ---
 
