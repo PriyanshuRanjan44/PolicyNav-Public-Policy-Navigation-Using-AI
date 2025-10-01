@@ -74,12 +74,13 @@ ollama_client.py      # For interacting with Ollama
 
 ## 📂 Project Structure
 
-├── app.py # Main Streamlit app (Virtual File Space)
-├── ocr.py # Document parsing (DOCX/PDF to text chunks)
-├── ollama_client.py # Interface with Ollama models
-├── requirements.txt # Python dependencies
-├── uploads # Uploaded files (session-specific)
-└── README.md # Documentation
+```text
+├── app.py              # Main Streamlit app (Virtual File Space)
+├── ocr.py              # Document parsing (DOCX/PDF to text chunks)
+├── ollama_client.py    # Interface with Ollama models
+├── requirements.txt    # Python dependencies
+├── uploads             # Uploaded files (session-specific)
+└── README.md           # Documentation
 
 ---
 
