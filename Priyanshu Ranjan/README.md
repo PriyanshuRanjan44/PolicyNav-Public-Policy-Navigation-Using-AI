@@ -43,6 +43,7 @@ streamlit run app.py
 
 ## 📦 Dependencies
 
+```text
 ├── Streamlit                 # Web Interface  
 ├── SentenceTransformers      # Embedding model  
 ├── faiss-cpu                 # Vector index for retrieval  
@@ -54,6 +55,7 @@ streamlit run app.py
 
 ocr.py                # For PDF/DOCX processing
 ollama_client.py      # For interacting with Ollama
+```
 
 ---
 
